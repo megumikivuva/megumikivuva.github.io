@@ -10,9 +10,9 @@ redirect_from:
 
 # Megumi Kivuva
 ## PhD Student at University of Washington iSchool
-### Justice-Centered Computing
+### Advised by Prof. Amy Ko
 
-#### I am interested in broadening participation in computing education through creating inclusive CS education enviorments. I specifically work with Black students and refugees where I aim to understand the barriers to accessing computing education and co-design interventions to make computing education more accessible to these communities. My previous work has included CS integration in language learning, co-construction in CS classes, and teaching CS in various after-school settings. I hold a BA in Computer Science and Spanish Studies from Bard College. In my free time I enjoy cooking Kenyan food and baking bread, cookies, and brownies. 
+#### I am interested in broadening participation in computing education through creating inclusive CS education enviorments. I specifically work with Black students and refugees where I aim to understand the barriers to accessing computing education and co-design interventions to make computing education more accessible to these communities. My previous work includes CS integration in language learning, co-construction in CS classes, and teaching CS in various after-school settings. I hold a BA in Computer Science and Spanish Studies from Bard College. In my free time I enjoy cooking Kenyan food and baking bread, cookies, and brownies! 
 
 ### Publications and Papers
 
