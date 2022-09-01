@@ -55,12 +55,12 @@ Awards and Leadership
 ======
 
 * Bard College William J. Lockwood Prize awarded to the senior student who has had the most impact on the welfare of the college, 2022
-* Featured in Bard College Center for Civic Engagement “What’s your why?” podcast, 2021
-* Bard College Experimental Humanities Department Student Spotlight recipient, 2021
+* Featured in Bard College Center for Civic Engagement [“What’s your why?”](https://cce.bard.edu/news/what-is-your-why-episode-2-megumi-kivuva-2021) podcast, 2021
+* Bard College Experimental Humanities Department [Student Spotlight recipient](https://eh.bard.edu/megumi-kivuva/), 2021
 * Bard College Association of Episcopal Colleges’ Charitable Service Scholar, 2021 
 * Bard College Undergraduate representative for the Computer Science Faculty Search, 2021
 * Bard College Berta and Herold J. Dresher Scholarship for high moral and intellectual stature, 2020
-* Fund for the Advancement of Minorities through Education Outstanding Intern Award, 2017
+* Fund for the Advancement of Minorities through Education [Outstanding Intern Award](https://www.post-gazette.com/news/education/2017/02/13/Homewood-church-FAME-program-recognize-minority-youth-achievement/stories/201702130026), 2017
 * The Ellis School Marcy Federman Love Award, a $10,000 travel grant to study arts and social change in Nicaragua & Cuba, 2017
 
 Language Fluency
