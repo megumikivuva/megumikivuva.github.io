@@ -11,49 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Information Science, University of Washington, Seattle
+* B.A. in Computer Science and Spanish Studies, 2022
+    * Senior Thesis: ¿Quién soy yo? (Who am I?): Exploring Identity through Analyzing Afro-Cuban Poetry and Creative Coding in a Post-Secondary Spanish Literature Classroom 
+    * Advised by Keith O'Hara and Melanie Nicholson
+ * Certificate in Civic Engagment, Open Society University Newtwork, 2022
+ * The Ells School, Pittsburgh PA, 2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Research Assistant, University of Washington iSchool, Summer 2022 - PRESENT
+  * Research interests include critical computing education, computing for social justice, and broadening participation for black students and refugees in computing education 
+
+* Undergraduate Research Assistant, University of Washington iSchool, Summer 2021
+  * Researched emerging critical consciousness in secondary computer science classrooms through teaching a summer class to a diverse group of high school students in Seattle.
+
+Work Experience
+======
+
+* Bard College Center for Civic Engagement, Lead STEM Education Fellow, 2018 – 2022
+    * Organized and developed educational programming for community partners catering to grades K12 in the Hudson Valley.
+ 
+Teaching
+======
+* Girls Who Code Bard College Lead Instructor, 2020 – 2022
+    * Teach computer science workshops for all-girls after-school programs in the Hudson Valley.  
+* Bard College Experimental Humanities Department Media Corps Member, 2019 – 2022
+    * Teach and develop programming workshops centered around the intersection of literature and programming.  
+* Literature in the Digital Age, Teaching Assistant,	Fall 2020 & Spring 2022
+    * Taught class once a week for students attending class virtually; developed and taught all curriculum for the programming aspects of the course using Twine and p5.js.
+* Creatively Coding a Better Future, Teaching Assistant	Summer 2021
+    * Collaborated on curriculum, assessment development, and grading for a summer course for high school students.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Alannah Olsen, Benjamin Xie, Jean Salac, Jayne Everson, **F. Megumi Kivuva**, Amy Ko. ["A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use”](https://doi.org/10.1145/3501385.3543967), ICER 2022 
+
+**[BEST PAPER AWARD]** Jayne Everson, **F. Megumi Kivuva**, Amy Ko. ["“A key to reducing inequities in like, AI, is by reducing inequities everywhere first”: Emerging Critical Consciousness in a Co-Constructed Secondary CS Classroom"](https://doi.org/10.1145/3478431.3499395),  SIGCSE 2022 
   
-Talks
+
+Awards and Leadership
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+* Bard College William J. Lockwood Prize awarded to the senior student who has had the most impact on the welfare of the college, 2022
+* Featured in Bard College Center for Civic Engagement “What’s your why?” podcast, 2021
+* Bard College Experimental Humanities Department Student Spotlight recipient, 2021
+* Bard College Association of Episcopal Colleges’ Charitable Service Scholar, 2021 
+* Bard College Undergraduate representative for the Computer Science Faculty Search, 2021
+* Bard College Berta and Herold J. Dresher Scholarship for high moral and intellectual stature, 2020
+* Fund for the Advancement of Minorities through Education Outstanding Intern Award, 2017
+* The Ellis School Marcy Federman Love Award, a $10,000 travel grant to study arts and social change in Nicaragua & Cuba, 2017
+
+Language Fluency
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Swahili - Native
+* English - Native
+* Spanish - Proficient
+
