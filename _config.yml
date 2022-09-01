@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Megumi Kivuva"
 title_separator          : "-"
-name                     : &name "Megumi Kivuva"
+name                     : 
 description              : &description "personal description"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -76,13 +76,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Megumi Kivuva (they/them)"
-  avatar           : "headshot.jpg"
+  name             : 
+  avatar           : "headshot2.jpg"
   bio              : 
   location         : "Mary Gates Hall 015"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=e028wrsAAAAJ&hl=en"
   email            : "megumik@uw.edu"
   researchgate     :  
   uri              :
@@ -98,7 +98,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "www.linkedin.com/in/megumikivuva"
+  linkedin         : "https://www.linkedin.com/in/megumikivuva/"
   orcid            : 
   pinterest        :
   soundcloud       :
