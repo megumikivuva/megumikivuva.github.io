@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# {% include base_path %}
 
 Education
 ======
 * Ph.D in Information Science, University of Washington, Seattle
-* B.A. in Computer Science and Spanish Studies, 2022
+* B.A. in Computer Science and Spanish Studies, Bard College, 2022
     * Senior Thesis: ¿Quién soy yo? (Who am I?): Exploring Identity through Analyzing Afro-Cuban Poetry and Creative Coding in a Post-Secondary Spanish Literature Classroom 
     * Advised by Keith O'Hara and Melanie Nicholson
  * Certificate in Civic Engagment, Open Society University Newtwork, 2022
