@@ -11,7 +11,7 @@ title                    : "Megumi Kivuva"
 title_separator          : "-"
 name                     : 
 description              : &description "personal description"
-url                      : www.megumikivuva.github.io
+url                      : https://megumikivuva.github.io
 baseurl                  : ""
 repository               : megumikivuva/megumikivuva.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
