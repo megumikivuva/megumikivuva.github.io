@@ -11,7 +11,7 @@ title                    : "Megumi Kivuva"
 title_separator          : "-"
 name                     : 
 description              : &description "personal description"
-url                      : megumikivuva.com
+url                      : www.megumikivuva.com
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
