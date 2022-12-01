@@ -23,15 +23,18 @@ Research Experience
 ======
 * Graduate Research Assistant, University of Washington iSchool, Summer 2022 - PRESENT
   * Research interests include critical computing education, computing for social justice, and broadening participation for black students and refugees in computing education 
-
 * Undergraduate Research Assistant, University of Washington iSchool, Summer 2021
   * Researched emerging critical consciousness in secondary computer science classrooms through teaching a summer class to a diverse group of high school students in Seattle.
 
 Work Experience
 ======
 
+* [A Vision for Electronic Literacy & Access (AVELA)](http://students.washington.edu/avelauw/about.html), Instructor, 2022 - PRESENT
+    * Facilitate STEM outreach for underrepresented minorities in the Puget Sound region in Washington State. 
 * Bard College Center for Civic Engagement, Lead STEM Education Fellow, 2018 – 2022
     * Organized and developed educational programming for community partners catering to grades K12 in the Hudson Valley.
+* Bard College Experiemental Huamnities Media Corps Member, 2019 - 2022
+    * Created CS workshops for non-majors at Bard College.
  
 Teaching
 ======
