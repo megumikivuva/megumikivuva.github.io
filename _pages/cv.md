@@ -49,14 +49,17 @@ Teaching
 
 Publications
 ======
+
+
 Alannah Olsen, Benjamin Xie, Jean Salac, Jayne Everson, **F. Megumi Kivuva**, Amy Ko. ["A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use”](https://doi.org/10.1145/3501385.3543967), ICER 2022 
 
-**[BEST PAPER AWARD]** Jayne Everson, **F. Megumi Kivuva**, Amy Ko. ["“A key to reducing inequities in like, AI, is by reducing inequities everywhere first”: Emerging Critical Consciousness in a Co-Constructed Secondary CS Classroom"](https://doi.org/10.1145/3478431.3499395),  SIGCSE 2022 
+Jayne Everson, **F. Megumi Kivuva**, Amy Ko. ["“A key to reducing inequities in like, AI, is by reducing inequities everywhere first”: Emerging Critical Consciousness in a Co-Constructed Secondary CS Classroom"](https://doi.org/10.1145/3478431.3499395),  SIGCSE 2022 **[BEST PAPER AWARD]**
   
 
 Awards and Leadership
 ======
 
+* [National Science Foundation Graduate Research Fellowship (https://www.nsfgrfp.org/)], $120,000 over 5 years, 2023-2028
 * Bard College William J. Lockwood Prize awarded to the senior student who has had the most impact on the welfare of the college, 2022
 * Featured in Bard College Center for Civic Engagement [“What’s your why?”](https://cce.bard.edu/news/what-is-your-why-episode-2-megumi-kivuva-2021) podcast, 2021
 * Bard College Experimental Humanities Department [Student Spotlight recipient](https://eh.bard.edu/megumi-kivuva/), 2021
