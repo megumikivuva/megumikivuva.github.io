@@ -49,7 +49,7 @@ Teaching
 
 Publications
 ======
-**F. Megumi Kivuva**, Keith O'Hara, Amy Ko. [Exploring Identity through Computing Integration in a Spanish Language & Literature Class] (https://faculty.washington.edu/ajko/papers/Kivuva2023SpanishLiterature.pdf), RESEPCT June 2023. 
+**F. Megumi Kivuva**, Keith O'Hara, Amy Ko. ["Exploring Identity through Computing Integration in a Spanish Language & Literature Class"] (https://faculty.washington.edu/ajko/papers/Kivuva2023SpanishLiterature.pdf), RESEPCT June 2023. 
 
 Alannah Olsen, Benjamin Xie, Jean Salac, Jayne Everson, **F. Megumi Kivuva**, Amy Ko. ["A Decade of Demographics in Computing Education Research: A Critical Review of Trends in Collection, Reporting, and Use”](https://doi.org/10.1145/3501385.3543967), ICER 2022 
 
