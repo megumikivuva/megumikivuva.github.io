@@ -11,6 +11,8 @@ redirect_from:
 
 I am a **National Science Foundation Graduate Research Fellow at the University of Washington, Seattle, advised by Prof. Amy Ko**. My PhD research aims to broaden participation in computing education for Black and refugee students. I use community participatory research to understand the barriers to accessing computing education and co-design interventions to make computing education more accessible to these communities. My previous work includes CS integration in language learning, co-construction in CS classes, and teaching CS in various after-school settings. I hold a BA in Computer Science and Spanish Studies from Bard College. I enjoy cooking Kenyan food and baking bread, cookies, and brownies in my free time! 
 
+You can view my [CV here](https://drive.google.com/file/d/1g8VCMn9dCNVoQFmzm1kbgb5FGfoli3cs/view?usp=drive_link)! 
+
 ### Publications and Papers
 **F. Megumi Kivuva**, Jayne Everson, Camilo De Haro, Amy Ko. [Culture-Centric Computational Embroidery](https://faculty.washington.edu/ajko/papers/Everson2024ComputationalEmbroidery.pdf), SIGCSE 2024 **[BEST PAPER AWARD]** 
 
