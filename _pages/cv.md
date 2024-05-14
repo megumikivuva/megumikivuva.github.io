@@ -1,7 +1,12 @@
 ---
-layout: page
-title: Redirecting to Megumi's CV
-permalink: /cv-redirect/
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /CV
 ---
 
-<meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1g8VCMn9dCNVoQFmzm1kbgb5FGfoli3cs/view?usp=sharing">
+<iframe src="/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my CV [here](/files/CV.pdf).
