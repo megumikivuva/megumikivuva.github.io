@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 
-I am a **National Science Foundation Graduate Research Fellow at the University of Washington, Seattle, advised by Prof. Amy Ko**. My PhD research aims to broaden participation in computing education for Black and refugee students. I use community participatory research to understand the barriers to accessing computing education and co-design interventions to make computing education more accessible to these communities. My previous work includes CS integration in language learning, co-construction in CS classes, and teaching CS in various after-school settings. I hold a BA in Computer Science and Spanish Studies from Bard College. I enjoy cooking Kenyan food and baking bread, cookies, and brownies in my free time! 
+I am a **National Science Foundation Graduate Research Fellow at the University of Washington, Seattle, advised by Prof. Amy Ko**. My PhD research aims to understand the barriers to accessing and co-design computer science learning pathways for refugee youth, their families, and the community organizations that support them. Through community participatory methodologies I work closely with refugee support organizations to build computer science programming for refugee youth. My previous work includes CS integration in language learning, co-construction in CS classes, computational embroidery and e-textiles, and teaching CS in various after-school settings. I hold a BA in Computer Science and Spanish Studies from Bard College. If you are looking to collaborate with me on any research projects, please reach out via email: megumik@uw.edu. 
 
 ### Publications and Papers
 
 Eman Sherif, Jayne Everson, **F. Megumi Kivuva**, Mara Kirdani-Ryan, Amy J. Ko. [Exploring the Impact of Assessment Policies on Marginalized Students' Experiences in Post-Secondary Programming Courses](https://dl.acm.org/doi/10.1145/3632620.3671100), ICER 2024.
-
 
 **F. Megumi Kivuva**, Jayne Everson, Camilo De Haro, Amy Ko. [Culture-Centric Computational Embroidery](https://faculty.washington.edu/ajko/papers/Everson2024ComputationalEmbroidery.pdf), SIGCSE 2024 **[BEST PAPER AWARD]** 
 
