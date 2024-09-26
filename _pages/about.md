@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a **National Science Foundation Graduate Research Fellow at the University of Washington, Seattle, advised by Prof. Amy Ko**. My PhD research aims to understand the barriers to accessing and co-design computer science learning pathways for refugee youth, their families, and the community organizations that support them. Through community participatory methodologies I work closely with refugee support organizations to build computer science programming for refugee youth. My previous work includes CS integration in language learning, co-construction in CS classes, computational embroidery and e-textiles, and teaching CS in various after-school settings. I hold a BA in Computer Science and Spanish Studies from Bard College. If you are looking to collaborate with me on any research projects, please reach out via email: megumik@uw.edu. 
+I am a **National Science Foundation Graduate Research Fellow at the University of Washington, Seattle, advised by Prof. Amy Ko**. My PhD research aims to co-design computer science learning pathways for refugee youth, their families, and the community organizations that support them. Through community participatory methodologies, I work closely with refugee support organizations to develop computer science programming for refugee youth. My previous work includes CS integration in language learning, co-construction in CS classes, computational embroidery and e-textiles, and teaching CS in various after-school settings. I hold a BA in Computer Science and Spanish Studies from Bard College. If you are looking to collaborate with me on any research projects, please reach out via email: megumik@uw.edu. 
 
 ### Publications and Papers
 
