@@ -13,6 +13,8 @@ I am a **National Science Foundation Graduate Research Fellow at the University 
 
 ### Publications and Papers
 
+**F. Megumi Kivuva**, Davie A. Ross, Amy J. Ko, [Justice-Centered Computing Education Curriculum Design in Informal Learning](https://doi-org.offcampus.lib.washington.edu/10.1145/3704637.3734779), RESPECT 2025. 
+
 Jean Salac, Lena Armstrong, **F. Megumi Kivuva**, Jayne Everson, Amy J. Ko. [How Economically-Marginalized Adolescents of Color Negotiate
 Critical Pedagogy in a Computing Classroom](https://dl.acm.org/doi/pdf/10.1145/3702330), TOCE 2024. 
 
