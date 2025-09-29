@@ -1,14 +1,9 @@
 ---
-layout: archive
-title: "CV"
+layout: null
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /CV
 ---
 
-<embed src="/Megumi_Kivuva_CV_9_20.pdf" type="application/pdf" width="100%" height="800px" />
-
-Or download it directly:
-
-[Download CV](/repo-name/Megumi_Kivuva_CV_9_20.pdf)
+<!DOCTYPE html>
+<meta http-equiv="refresh" content="0; url=/repo-name/Megumi_Kivuva_CV_9_20.pdf">
+<link rel="canonical" href="/repo-name/Megumi_Kivuva_CV_9_20.pdf">
+<p>If you are not redirected, <a href="/repo-name/Megumi_Kivuva_CV_9_20.pdf">click here</a>.</p>
