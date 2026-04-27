@@ -15,7 +15,7 @@ I am a **National Science Foundation Graduate Research Fellow at the University 
 
 **F. Megumi Kivuva**, Eman Sherif, Belén Edgar, Amy J. Ko [Systems, values, and conceptions shaping computing education in refugee support organizations](https://faculty.washington.edu/ajko/papers/Kivuva2026RefugeeOrgs.pdf), International Society of the Learning Sciences (ISLS) 2026. 
 
-Jayne Everson, **F. Megumi Kivuva**, Camilo De Haro, Amy Ko. [Culture-centric computational embroidery as a medium for learning computer science](https://doi.org/10.1080/08993408.2026.2618836)), IEEE Computer Science Education (CSE) 2025.  
+Jayne Everson, **F. Megumi Kivuva**, Camilo De Haro, Amy Ko. [Culture-centric computational embroidery as a medium for learning computer science](https://doi.org/10.1080/08993408.2026.2618836), IEEE Computer Science Education (CSE) 2025.  
 
 **F. Megumi Kivuva**, Davie A. Ross, Amy J. Ko, [Justice-Centered Computing Education Curriculum Design in Informal Learning](https://faculty.washington.edu/ajko/papers/Kivuva2025JusticeCurriculum.pdf), ACM SIGCSE Conference on Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT) 2025. 
 
