@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-I am a **National Science Foundation Graduate Research Fellow at the University of Washington (UW), Seattle, advised by Prof. Amy Ko**. I study computing education for refugee and immigrant youth. My research is grounded in a multi-year partnership with a local Seattle refugee support organization, where I work alongside staff and community members to build computing programs that reflect the knowledge, aspirations, and lived experiences of the communities they serve. I am interested in how the organizational conditions within refugee-serving organizations shape what computing education becomes possible, and what it takes to make that education sustainable, responsive, and just. I hold an MS in Information Science from UW and a BA in Computer Science and Spanish Studies from Bard College. If you are interested in collaborating, please reach out at megumik@uw.edu.
+I am a **National Science Foundation Graduate Research Fellow at the University of Washington (UW), Seattle, advised by Prof. Amy Ko**. I study computing education for refugee and immigrant youth. My research is grounded in a multi-year partnership with a Seattle-based refugee support organization, where I work alongside staff and community members to build computing programs that reflect the knowledge, aspirations, and lived experiences of the communities they serve. I am interested in how the organizational conditions within refugee-serving organizations shape what computing education is possible, and what it takes to make that education sustainable, responsive, and just. I hold an MS in Information Science from UW and a BA in Computer Science and Spanish Studies from Bard College. If you are interested in collaborating, please reach out at megumik@uw.edu.
 
 ### Publications and Papers
+
+Jayne Everson, Rotem Landesman, Janet Jiang, **F. Megumi Kivuva**, Eman Sherif, Amy J. Ko. [Student Experiences of Joyful Secondary CS Classrooms](https://doi.org/10.1145/3765964.3811650), *Proceedings of the 2026 ACM Conference on International Computing Education Research* (ICER 2026).
 
 **F. Megumi Kivuva**, Eman Sherif, Belén Edgar, Amy J. Ko [Systems, values, and conceptions shaping computing education in refugee support organizations](https://faculty.washington.edu/ajko/papers/Kivuva2026RefugeeOrgs.pdf), International Society of the Learning Sciences (ISLS) 2026. 
 
